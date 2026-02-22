@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated outputs (keep structure via .gitkeep)
+outputs/*.csv
+
+# OS
+.DS_Store

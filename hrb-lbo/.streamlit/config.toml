@@ -1,0 +1,10 @@
+[theme]
+# Light, modern corporate finance aesthetic (distinct from PE dashboard dark navy)
+primaryColor = "#0891b2"
+backgroundColor = "#f8fafc"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#0f172a"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"

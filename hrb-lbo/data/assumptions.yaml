@@ -1,0 +1,26 @@
+model:
+  start_year: 2026
+  projection_years: 5
+  tax_rate: 0.24
+
+operating:
+  revenue_cagr: 0.03
+  ebitda_margin: 0.26
+  da_pct_rev: 0.02
+  capex_pct_rev: 0.015
+  nwc_pct_rev: 0.01
+
+transaction:
+  entry_multiple: 8.0
+  exit_multiple: 9.0
+  fees_pct_ev: 0.02
+  debt_pct_ev: 0.60
+  min_cash: 200000000
+
+debt:
+  revolver:
+    limit: 800000000
+    rate: 0.08
+  tlb:
+    rate: 0.085
+    amort_pct: 0.01
